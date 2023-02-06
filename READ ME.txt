@@ -1,0 +1,26 @@
+Project "KIRA" 🙋‍♂️ is a simple lightweight text-to-speech application, with a simple User Interface. 
+
+The objective of the software is to foster easy and faster reading of long and tedious text essays, facilitate working on long articles faster, and enhance pronunciation of certain difficult words easily.
+Kira is not perfect but it is a well-organized application, that meets diverse users' needs.
+
+Catching up with recent trends requires us to develop software that users can easily use,  and interact with. KIRA provides all that!
+
+KIRA uses a free text-to-speech API called "FreeTTS" which helps
+with KIRA'S voice. Also, built using Java JDK 17.0.1
+
+We added the build file, the iml file, jar file and an .exe file for your per usual 
+We only added the src(source code) and image files 📂 for the submissions 
+
+*Requirements 🧾*
+1. Since KIRA uses Java JDK 17.0.1 your system requires at least Java JDK 16 or above. 
+2. System Requirements vary. It runs on any device. But KIRA requires some recommendations
+*RECOMMENDATIONS ⚠*
+it is recommended that you use IntelliJ IDE or Eclipse IDE to read or view source codes
+since NetBeans IDE might not recognize some modules or methods used in the development of 
+this application. 
+
+Operating System: Windows 7/8/10/11
+RAM : At least 2 GB of RAM 
+
+If there are any problems with KIRA, please contact:  
+elijahmottey@gmail.com or princeelorm17@gmail.com for enquiries. 

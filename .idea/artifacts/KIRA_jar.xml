@@ -1,0 +1,28 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KIRA:jar">
+    <output-path>$PROJECT_DIR$/../..</output-path>
+    <root id="archive" name="KIRA.jar">
+      <element id="module-output" name="KIRA" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/build/classes/freetts-jsapi10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/build/classes/en_us.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/build/classes/jsapi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/build/classes/cmudict04.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/build/classes/cmu_time_awb.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/build/classes/freetts.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/build/classes/mbrola.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/build/classes/cmulex.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/build/classes/cmutimelex.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/build/classes/cmu_us_kal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/cmu_us_kal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/cmudict04.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/cmutimelex.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/cmulex.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/jsapi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/en_us.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/freetts-jsapi10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/cmu_time_awb.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/freetts.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/mbrola.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
